@@ -1,2 +1,3 @@
-# ignore-this-test-repo
-Repo for testing purposes
+# Ignore this
+
+This is just a repo for testing purposes. Please ignore!
